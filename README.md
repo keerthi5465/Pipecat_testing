@@ -98,4 +98,5 @@ You can also audition voices with the **🔊 Audition selected voice** button.
 - [Deepgram account](https://console.deepgram.com/)
 - [Google Gemini API key](https://aistudio.google.com/)
 - [Cartesia account](https://cartesia.ai/)
+<img width="3456" height="2234" alt="image" src="https://github.com/user-attachments/assets/2ec97597-11c3-4581-a10e-128405b0f9fd" />
 
